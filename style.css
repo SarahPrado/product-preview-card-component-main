@@ -115,6 +115,9 @@ body{
     border-radius: 15px;
     border: 0;
 }
+.right button svg{
+    margin-right: 8px;
+}
 
 .right button:hover{
     background-color: hsl(158, 36%, 46%);
