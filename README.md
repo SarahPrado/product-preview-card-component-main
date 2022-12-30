@@ -21,8 +21,9 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ## Overview
 
 ### Screenshot
-
+Design a ser copiado
 ![Here the design gived from Frontend Mentor](./design/desktop-design.jpg)
+O meu Design
 ![Here my solution](./design/mydesing.jpg)
 
 ## My process
